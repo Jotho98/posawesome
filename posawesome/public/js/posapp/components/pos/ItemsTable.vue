@@ -256,7 +256,6 @@
                   </div>
                 </div>
               </div>
-
               <!-- Fourth row for warehouse and other details -->
               <div class="form-row">
                 <div class="form-field">
